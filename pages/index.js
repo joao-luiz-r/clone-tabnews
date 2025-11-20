@@ -43,13 +43,6 @@ function Home() {
         </p>
 
         <h3>Lançamento em Breve!</h3>
-        <p>
-          <strong>Data Estimada:</strong> [Inserir Mês e Ano Estimado]
-        </p>
-        <p>
-          <strong>Nos encontre nas redes:</strong>{" "}
-          <a href="[Link para Redes Sociais]">Siga-nos aqui!</a>
-        </p>
 
         <footer>
           <p>#BRASILTINEWS #TechNews #ClippingTI #EmBreve</p>
