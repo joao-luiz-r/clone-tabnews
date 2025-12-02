@@ -1,5 +1,5 @@
-function Home() {
-  return <h1>Ok! </h1>;
+function status(request, response) {
+  response.status(200).json({ chave: "ok" });
 }
 
-export default Home;
+export default status;
